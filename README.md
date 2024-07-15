@@ -97,3 +97,6 @@ Aptidões para criar e manter aplicações de alta qualidade:
 - Manutenibilidade do Código
 - Tratamento de erros
 - Desacoplar componentes (outras camadas, service, repository)
+
+## Entrega
+- Prazo de entrega até o dia 27/07
