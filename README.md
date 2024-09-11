@@ -99,4 +99,4 @@ Aptidões para criar e manter aplicações de alta qualidade:
 - Desacoplar componentes (outras camadas, service, repository)
 
 ## Entrega
-- Prazo de entrega até o dia 27/07
+- Prazo de entrega até o dia 15/09
